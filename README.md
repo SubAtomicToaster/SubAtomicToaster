@@ -2,13 +2,13 @@
 
 
 <p align="left">
-  <a href=" www.linkedin.com/in/henderson-hollis"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg"></a>
+  <a href="www.linkedin.com/in/henderson-hollis"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg"></a>
 </p>
 
 
 <p align="center">
 Virtualizer of things and tinkerer of everything I touch! :sunglasses: I tend to wear a lot of hats, but first I am an avid learner and "Google hero".
-I have the hardest time saying "no" to trying to automate things. I really need a better "is it worth it" meter. 
+I have the hardest time saying "no" when trying to automate things. I really need a better "is it worth it" meter. 
 </p>
 
 ## My goals! 
