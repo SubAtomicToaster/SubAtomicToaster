@@ -7,8 +7,7 @@
 
 
 <p align="center">
-Virtualizer of things and tinkerer of everything I touch! :sunglasses: I tend to wear a lot of hats, but first I am an avid learner and "Google hero".
-I have the hardest time saying "no" when trying to automate things. I really need a better "is it worth it" meter. 
+Virtualizer of things and tinkerer of everything I touch! :sunglasses: I tend to wear a lot of hats, but first I am an avid learner and "Google hero". 
 </p>
 
 ## My goals! 
@@ -18,12 +17,4 @@ I have the hardest time saying "no" when trying to automate things. I really nee
 
 - [ ] Virtualize my life. :file_folder:
 
-## Technologies 
-<p align="left">
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/python.svg" /> 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/powershell.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@4.21.0/icons/linux.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@4.21.0/icons/windows.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@4.21.0/icons/raspberrypi.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@4.21.0/icons/vmware.svg" />
-</p>
+
