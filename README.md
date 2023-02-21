@@ -7,7 +7,8 @@
 
 
 <p align="center">
-Virtualizer of things and tinkerer of everything I touch! :sunglasses: I tend to wear a lot of hats, but first I am an avid learner and "Google hero". 
+Virtualizing and tinkering with everything I can.  
+I tend to wear a lot of hats, but first I am an avid learner and practice google-fu daily. 
 </p>
 
 ## My goals! 
