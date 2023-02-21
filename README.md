@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Hollis - lovingly known as SubAtomicToaster!
+## 👋 Hi there, I’m Hollis - a big fan of Toast.
 
 
 <p align="left">
