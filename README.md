@@ -13,7 +13,7 @@ Virtualizer of things and tinkerer of everything I touch! :sunglasses: I tend to
 ## My goals! 
 - [x] Learn all the things! :mortar_board:
 
-- [ ] Become a Cyber guru. :computer:
+- [ ] Automate where possible. :computer:
 
 - [ ] Virtualize my life. :file_folder:
 
